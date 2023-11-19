@@ -14,14 +14,17 @@ class Skills extends Dev {
 }
 ```
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagner-sousa&hide=html&layout=compact&theme=dark" alt="ilustração do status do github">
-
-
 #### About me
-With 4 years of experience in Web Development. My differential is to
+
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagner-sousa&hide=html&layout=compact&theme=dark" alt="ilustração do status do github">
+<span align='left'>
+
+My differential is to
 apply, my knowledges and experiences in administrative routines in
 technic forms. But before all, I’m a self-taught, and with that I got
 knowledge in many other technologies and areas.
+
+</span>
 
 ##### I know too
 <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" /> <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
